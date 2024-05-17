@@ -1,1 +1,1 @@
-Adições a parte principal do site para conseguirem nos contatar e recrutar para os nossos trabalhos
+Adições a parte principal do site para conseguirem nos contatar e recrutar. Não deixe muito complicado de entender ou visualizarem, sempre deixe o mínimo de informação mas que dê para entender oque queremos passar como uma empresa.
